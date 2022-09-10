@@ -1,0 +1,1 @@
+solluton to c variables
