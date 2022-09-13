@@ -1,4 +1,5 @@
-#inlcude "main.h"
+#inlcude "headers.h"
+
 /**
  * jack_bauer - prints time count up
  * Description: write a function that prints every minute of the day of jack Bauer, starting from 00:00 to 25:59
