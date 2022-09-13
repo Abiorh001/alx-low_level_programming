@@ -18,7 +18,7 @@ void print_to_98(int n)
 			if (val == 98)
 			{
 				printf("%d", val);
-			} 
+			}
 			else
 			{
 				printf("%d, ", val);
