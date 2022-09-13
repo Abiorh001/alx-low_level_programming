@@ -1,4 +1,4 @@
-#include "main.h"
+#include "headers.h"
 /**
  * _islower - check if a charcater is lower
  * @c : charcater to check the case
@@ -6,7 +6,7 @@
  * Return: throws 1 else throws 0
  */
 
-int_islower(int c)
+int _islower(int c)
 {
 	if ((c >= 97) && (c <= 122))
 	{
