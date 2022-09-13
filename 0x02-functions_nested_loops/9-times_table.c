@@ -1,4 +1,6 @@
-#include "headers.h"
+#include "main.h"
+#include <stdio.h>
+
 /**
  * times_table - display times table
  */
