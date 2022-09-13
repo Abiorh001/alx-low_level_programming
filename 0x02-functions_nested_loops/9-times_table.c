@@ -31,6 +31,6 @@ void times_table(void)
 			}
 		}
 		_putchar('\n');
-		n++
+		n++;
 	}
 }

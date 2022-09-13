@@ -15,9 +15,13 @@ void print_to_98(int n)
 		while (val >= 98)
 		{
 			if (val == 98)
+			{
 				printf("%d", val);
+			} 
 			else
+			{
 				printf("%d, ", val);
+			}
 			val--;
 		}
 	}
@@ -26,11 +30,15 @@ void print_to_98(int n)
 		while (val <= 98)
 		{
 			if (val == 98)
+			{
 				printf("%d", val);
+			}
 			else
+			{
 				printf("%d, ", val);
+			}
 			val++;
 		}
 	}
-	putchar('\n);
+	putchar('\n');
 }
