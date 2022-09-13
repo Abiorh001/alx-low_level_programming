@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "headers.h"
 /**
  * print_to_98 - print ordered number from n to 98
  * @n: number to use
