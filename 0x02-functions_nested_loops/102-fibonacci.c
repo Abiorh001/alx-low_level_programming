@@ -15,7 +15,7 @@ int main(void)
 	next = 1;
 	ans = prev + next;
 	printf("%ld, %ld, ", next, ans);
-	for (i = 1;  <= 48; i++)
+	for (i = 1; i <= 48; i++)
 	{
 		prev = next;
 		next = ans;
