@@ -1,1 +1,1 @@
-Solution to debugging
+solution to debugging
