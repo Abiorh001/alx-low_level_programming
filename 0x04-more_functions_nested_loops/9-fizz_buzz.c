@@ -33,6 +33,6 @@ int main(void)
 			putchar(' ');
 		i++;
 	}
-	printf('\n');
+	printf("\n");
 	return (0);
 }
